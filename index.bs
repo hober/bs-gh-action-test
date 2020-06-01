@@ -1,0 +1,9 @@
+<pre class=metadata>
+Title: test
+Shortname: bs-gh-action-test
+Editor: Theresa O’Connor, w3cid 40614, Apple Inc. https://apple.com, hober@apple.com
+Status: DREAM
+Abstract: This is a test.
+</pre>
+
+This is a test.
